@@ -34,4 +34,8 @@
 //  console.log(typeof undefined) //undefined
 //  console.log(typeof null) //object
  
- 
+ // *********** MEMORY ****************
+
+ //1.  stack(primitive , store  call by value or copy of value)
+
+ //2. Heap( non primitive, store refrence  i.e., original value)
